@@ -1,0 +1,35 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+
+body {
+	font-family: Montserrat;
+	font-size: 14px;
+}
+
+h1 {
+	font-family: Montserrat;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+a {
+	text-decoration: none;
+	color: #1F6F8B;
+	transition: : color 0.3s ease;
+}
+a:hover {
+	color: #19D3DA;
+	font-size: 12px;
+}
+
+
+
+
